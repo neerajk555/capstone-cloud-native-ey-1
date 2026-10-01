@@ -7,9 +7,6 @@ use to run software in production - containerize it, secure it with Kubernetes-n
 package it with Helm, observe it with Prometheus and Grafana, and deploy it continuously via GitOps with
 ArgoCD - **entirely on your own machine**, no cloud account, no cost.
 
-This capstone deliberately covers **local, tool-equivalent versions of most of this course's modules**,
-skipping only the two areas that inherently require a cloud provider (AWS-specific services, and
-Agentic AI / Amazon Bedrock).
 
 ## What You'll Build
 
